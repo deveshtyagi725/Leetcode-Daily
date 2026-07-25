@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
