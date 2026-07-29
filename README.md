@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
