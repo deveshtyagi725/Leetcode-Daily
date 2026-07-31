@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting Sort
 |  |
