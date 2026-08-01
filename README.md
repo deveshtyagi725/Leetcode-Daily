@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting Sort
 |  |
@@ -48,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/1068-product-sales-analysis-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
