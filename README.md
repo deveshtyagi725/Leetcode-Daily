@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0877-stone-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -62,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
