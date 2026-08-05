@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0486-predict-the-winner) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3731-find-missing-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
