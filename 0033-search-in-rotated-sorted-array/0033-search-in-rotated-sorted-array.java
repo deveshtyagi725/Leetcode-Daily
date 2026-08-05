@@ -10,7 +10,7 @@ class Solution {
                 return ans;
             }
             if(nums[i]<=nums[mid]){
-                if(nums[i]<=target && target<=nums[mid]){
+                if(nums[i]<=target && target<nums[mid]){
                     j=mid-1;
                 }else{
                     i=mid+1;
