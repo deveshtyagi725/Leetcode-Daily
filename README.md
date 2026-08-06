@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
