@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
