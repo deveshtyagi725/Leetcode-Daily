@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/1140-stone-game-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/1140-stone-game-ii) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
