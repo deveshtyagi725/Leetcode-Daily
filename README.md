@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deveshtyagi725/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
